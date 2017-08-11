@@ -1,0 +1,4 @@
+arichivo.txt  bd.txt  prueba.txtgit push -u origin master
+cualquier archiv
+cualquier archiv
+cualquier archivooo
